@@ -74,7 +74,7 @@ Copy the URL of this frame and paste it into NetBeans. It will open
 then the URL in a browser and you can see how the page looks like.
 If you are going back to NetBeans the debug mode is on and the run
 stops at the first breakpoint. Now you can investigate variables and
-continue step-by-step and hope to find bug quicker.
+continue step-by-step and hope to find a bug quicker.
 
 .. tip::
 
